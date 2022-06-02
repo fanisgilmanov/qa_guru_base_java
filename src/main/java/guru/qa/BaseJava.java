@@ -30,7 +30,7 @@ public class BaseJava {
 
         public static void operationsOnVariables () {
             //Обьявление основных виды математических операторов
-            byte sumByte = 53 + 31;
+            byte sumByte = 54 + 31;
             System.out.println("Сложение типа байт: " + sumByte);
             int timesInt = 758 * 32;
             System.out.println("Умножение типа int: " + timesInt);
